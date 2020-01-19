@@ -1,0 +1,2 @@
+snparse parses text representations of sorting networks to produce Go code.
+argv[1] must be the input size. Will panic on syntactically-invalid inputs.
